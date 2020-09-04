@@ -56,9 +56,6 @@ You must know what you're doing, there's no shortcut. Please get prepared before
 
 ### Known Exchanges using Peatio
 
-* [Yunbi Exchange](https://yunbi.com) - A crypto-currency exchange funded by BitFundPE
-* [One World Coin](https://oneworldcoin.com)
-* [Bitspark](https://bitspark.io) - Bitcoin Exchange in Hong Kong
 * [MarsX.io](https://acx.io) - Australian Cryptocurrency Exchange
 
 ### Mobile Apps ###
